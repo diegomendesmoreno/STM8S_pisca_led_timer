@@ -1,22 +1,22 @@
-"C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Testes\pisca_led_timer\STM8S_StdPeriph_Driver\src\stm8s_gpio.c"
+"C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Exemplos de Código\Public\STM8S_pisca_led_timer\STM8S_StdPeriph_Driver\src\stm8s_gpio.c"
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Testes\pisca_led_timer\EWSTM8\..\STM8S_StdPeriph_Driver\inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Exemplos de Código\Public\STM8S_pisca_led_timer\EWSTM8\..\STM8S_StdPeriph_Driver\inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Testes\pisca_led_timer\EWSTM8\..\User
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Exemplos de Código\Public\STM8S_pisca_led_timer\EWSTM8\..\User
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Testes\pisca_led_timer\EWSTM8\..
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Exemplos de Código\Public\STM8S_pisca_led_timer\EWSTM8\..
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc\c
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Testes\pisca_led_timer\STM8S_StdPeriph_Driver\inc
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Exemplos de Código\Public\STM8S_pisca_led_timer\STM8S_StdPeriph_Driver\inc
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Testes\pisca_led_timer\User
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Exemplos de Código\Public\STM8S_pisca_led_timer\User
 -I
-C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Testes\pisca_led_timer
+C:\Users\engenharia\Documents\Diego Moreno\Projetos\STM8S\Exemplos de Código\Public\STM8S_pisca_led_timer
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

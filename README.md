@@ -14,7 +14,7 @@ http://www.cosmicsoftware.com/download_stm8_32k.php
 http://www.st.com/web/en/catalog/tools/PF210567
 
 ou
-- IAR Embedded Workbench for STM8 (EWSTM8) – IDE e Compilador (8 Kbyte de limitação de código)
+- IAR Embedded Workbench for STM8 (EWSTM8) – IDE e Compilador (8 KB de limitação de código)
 https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview
 
 
@@ -41,13 +41,13 @@ STM8S_pisca_led_timer (ENGLISH)
 What do you need:
 --------------
 # **Software**
-- Cosmic Software – Compiler (32kB code size limit)
+- Cosmic Software – Compiler
 http://www.cosmicsoftware.com/download_stm8_32k.php
 - ST Visual Develop (STVD) – IDE and programmer
 http://www.st.com/web/en/catalog/tools/PF210567
 
 or
-- IAR Embedded Workbench for STM8 (EWSTM8) – IDE e Compilador (8 Kbyte code size limitation)
+- IAR Embedded Workbench for STM8 (EWSTM8) – IDE and Compiler (8 KB code size limitation)
 https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview
 
 - Standard Peripheral Library
