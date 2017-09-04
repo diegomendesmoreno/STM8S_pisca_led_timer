@@ -8,26 +8,19 @@ STM8S_pisca_led_timer (PORTUGUÊS)
 Do que você precisa:
 --------------
 # **Software**
-- Cosmic Software – Compilador
-http://www.cosmicsoftware.com/download_stm8_32k.php
-- ST Visual Develop (STVD) – IDE e programador
-http://www.st.com/web/en/catalog/tools/PF210567
+- [Cosmic Software](http://www.cosmicsoftware.com/download_stm8_32k.php) – Compilador
+- [ST Visual Develop (STVD)](http://www.st.com/en/development-tools/stvd-stm8.html) – IDE e programador
 
 ou
-- IAR Embedded Workbench for STM8 (EWSTM8) – IDE e Compilador (8 KB de limitação de código)
-https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview
+- [IAR Embedded Workbench for STM8 (EWSTM8)](https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview) – IDE e Compilador (8 KB de limitação de código)
 
 
-- Standard Peripheral Library – Biblioteca de periféricos
-http://www.st.com/web/en/catalog/tools/FM147/CL1794/SC1807/SS1754/PF258009?s_searchtype=keyword
-- Driver USB do gravador ST-Link (Windows 7, Windows 8, Windows 10)
-http://www.st.com/web/en/catalog/tools/FM147/SC1887/PF260219?s_searchtype=keyword
+- [Standard Peripheral Library](http://www.st.com/en/embedded-software/stsw-stm8069.html) – Biblioteca de periféricos
+- [Driver USB do gravador ST-Link](http://www.st.com/en/development-tools/stsw-link009.html) (Windows 7, Windows 8, Windows 10)
 
 # **Documentação**
-- Placa de desenvolvimento: STM8S-DISCOVERY
-http://www.st.com/web/catalog/tools/FM116/SC959/SS1673/PF247087?s_searchtype=partnumber
-- Microcontrolador: STM8S105C6
-http://www.st.com/web/catalog/mmc/FM141/SC1244/SS1010/LN754/PF215105?s_searchtype=partnumber
+- Placa de desenvolvimento: [STM8S-DISCOVERY](http://www.st.com/en/evaluation-tools/stm8s-discovery.html)
+- Microcontrolador: [STM8S105C6](http://www.st.com/en/microcontrollers/stm8s105c6.html)
 
 ---------------------------------------------------------------------------------
 
@@ -41,22 +34,15 @@ STM8S_pisca_led_timer (ENGLISH)
 What do you need:
 --------------
 # **Software**
-- Cosmic Software – Compiler
-http://www.cosmicsoftware.com/download_stm8_32k.php
-- ST Visual Develop (STVD) – IDE and programmer
-http://www.st.com/web/en/catalog/tools/PF210567
+- [Cosmic Software](http://www.cosmicsoftware.com/download_stm8_32k.php) – Compiler
+- [ST Visual Develop (STVD)](http://www.st.com/en/development-tools/stvd-stm8.html) – IDE and programmer
 
 or
-- IAR Embedded Workbench for STM8 (EWSTM8) – IDE and Compiler (8 KB code size limitation)
-https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview
+- [IAR Embedded Workbench for STM8 (EWSTM8)](https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview) – IDE and Compiler (8 KB code size limitation)
 
-- Standard Peripheral Library
-http://www.st.com/web/en/catalog/tools/FM147/CL1794/SC1807/SS1754/PF258009?s_searchtype=keyword
-- ST-Link USB Driver (Windows 7, Windows 8, Windows 10)
-http://www.st.com/web/en/catalog/tools/FM147/SC1887/PF260219?s_searchtype=keyword
+- [Standard Peripheral Library](http://www.st.com/en/embedded-software/stsw-stm8069.html)
+- [ST-Link USB Driver](http://www.st.com/en/development-tools/stsw-link009.html) (Windows 7, Windows 8, Windows 10)
 
 # **Documentation**
-- Development board: STM8S-DISCOVERY
-http://www.st.com/web/catalog/tools/FM116/SC959/SS1673/PF247087?s_searchtype=partnumber
-- Microcontroller: STM8S105C6
-http://www.st.com/web/catalog/mmc/FM141/SC1244/SS1010/LN754/PF215105?s_searchtype=partnumber
+- Development board: [STM8S-DISCOVERY](http://www.st.com/en/evaluation-tools/stm8s-discovery.html)
+- Microcontroller: [STM8S105C6](http://www.st.com/en/microcontrollers/stm8s105c6.html)

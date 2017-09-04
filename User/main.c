@@ -61,14 +61,17 @@ static void TIM1_Config(void)
   //Inicialização do TIM1
   TIM1_TimeBaseInit(Prescaler, TIM1_COUNTERMODE_UP, Period, 0);
   
-  //Limpa o flag do TIM1
-  TIM1_ClearFlag(TIM1_FLAG_UPDATE);
-  
   //Escolhe interrupção por OVERFLOW ("UPDATE")
   TIM1_ITConfig(TIM1_IT_UPDATE, ENABLE);
   
   //Ativa o periférico TIM1
   TIM1_Cmd(ENABLE);
+  
+  //Gera um evento para ativar as configurações
+  TIM1->EGR |= 0x0001;
+  
+  //Limpa o flag do TIM1
+  TIM1_ClearFlag(TIM1_FLAG_UPDATE);
 }
 
 
